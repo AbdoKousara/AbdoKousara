@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Abdul</h1>
-<h3 align="center">Passionate and detail-oriented software developer with a knack for crafting elegant solutions in the digital realm. I thrive on turning complex problems into simple, efficient, and intuitive applications. My goal is to create software that not only meets the requirements but also exceeds expectations.</h3>
+<h1 >Hi 👋, I'm Abdul</h1>
+<h3 >Passionate and detail-oriented software developer with a knack for crafting elegant solutions in the digital realm. I thrive on turning complex problems into simple, efficient, and intuitive applications. My goal is to create software that not only meets the requirements but also exceeds expectations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdokousara&label=Profile%20views&color=0e75b6&style=flat" alt="abdokousara" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdokousara" alt="abdokousara" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce Site**
 
