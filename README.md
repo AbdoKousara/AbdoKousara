@@ -23,7 +23,7 @@ A Passionate Software Developer who loves crafting products that people love.
 
 * 🌍  I'm based in Barcelona, Spain
 * ✉️  You can contact me at [abdul.kousara@gmail.com](mailto:abdul.kousara@gmail.com)
-* 🚀  I'm currently working on [E-commerce Site]()
+* 🚀  I'm currently working on [E-commerce Site](https://github.com/AbdKousara/crwn-clothing)
 * 🧠  I'm learning HTMX & Modern Software Architecture
 * 💬  Ask me about all things anime :)
 * ⚡  Fun fact: I'm secretly Cowboy🤠 ... but don't tell anyone
