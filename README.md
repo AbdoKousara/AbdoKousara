@@ -46,7 +46,7 @@ I'm a passionate React developer who loves building awesome web applications. We
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdoKousara&show_icons=true&theme=radical)](https://github.com/AbdoKousara)
 
 ## 🌟 Featured Repositories
 
