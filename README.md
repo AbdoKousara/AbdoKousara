@@ -44,13 +44,11 @@ A Passionate Software Developer who loves crafting products that people love.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AbdKousara" ><img align="left" src="https://github-readme-stats.vercel.app/api?username=AbdKousara&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdKousara's GitHub stats" /></a>
+<a href="http://www.github.com/AbdKousara" ><img src="https://github-readme-stats.vercel.app/api?username=AbdKousara&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdKousara's GitHub stats" /></a>
 
-<a href="http://www.github.com/AbdKousara" ><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdKousara&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/AbdKousara" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdKousara&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-
-<br><br><br><br><br><br><br><br><br>
+<br>
 
 ## Socials
 
