@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-<a href="https://github.com/AbdKousara" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdKousara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" align="right"/></a>
+<a href="https://github.com/AbdKousara" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdKousara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%100%Languages" alt="Top Languages" align="right"/></a>
 
 A Passionate Software Developer who loves crafting products that people love.
 
