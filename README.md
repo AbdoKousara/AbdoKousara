@@ -28,7 +28,7 @@ A Passionate Software Developer who loves crafting products that people love.
 * 🚀  I'm currently working on [E-commerce Site](https://github.com/AbdKousara/crwn-clothing)
 * 🧠  I'm learning HTMX & Modern Software Architecture
 * 💬  Ask me about anything :)
-* ⚡  Fun fact: I'm secretly Cowboy🤠 ... but don't tell anyone
+* ⚡  Fun fact: I'm secretly Cowboy🤠 ... but don't tell anyone!!
 
 
 <br><br><br><br><br>
