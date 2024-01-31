@@ -31,7 +31,7 @@ A Passionate Software Developer who loves crafting products that people love.
 * ⚡  Fun fact: I'm secretly Cowboy🤠 ... but don't tell anyone
 
 
-<br><br><br>
+<br><br><br><br><br>
 ## Skills
 
 
