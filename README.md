@@ -23,9 +23,9 @@ Howdy! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 
 * 🌍  I'm based in Barcelona, Spain
-* ✉️  You can contact me at [abdul.kousara@gmail.com](mailto:abdul.kousara@gmail.com)
+* ✉️  You can contact me at [kader.kousara@gmail.com](mailto:abdul.kousara@gmail.com)
 * 🚀  I'm currently working on [E-commerce Site](https://github.com/KaderKousara/crwn-clothing)
-* 🧠  I'm learning HTMX & Modern Software Architecture
+* 🧠  I'm learning Modern Software Architecture 🤓
 * 💬  Ask me about anything :)
 * ⚡  Fun fact: I'm secretly Cowboy🤠 ... but don't tell anyone!!
 
