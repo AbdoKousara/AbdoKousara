@@ -27,7 +27,6 @@ Howdy! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 * 🚀  I'm currently working on [E-commerce Site](https://github.com/KaderKousara/crwn-clothing)
 * 🧠  I'm learning Modern Software Architecture 🤓
 * 💬  Ask me about anything :)
-* ⚡  Fun fact: I'm secretly Cowboy🤠 ... but don't tell anyone!!
 
 
 <br><br><br><br><br>
